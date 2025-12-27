@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.service-item {
+  @apply bg-white p-6 rounded-lg shadow-md border border-gray-200 hover:shadow-lg transition;
+}
+
+.service-item::before {
+  content: "✓";
+  @apply text-accent-500 font-bold mr-3;
+}
