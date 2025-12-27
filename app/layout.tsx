@@ -8,7 +8,7 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Unlock Your Business Potential - Professional business solutions Services',
+  title: 'Elevate Your Business with Our Expertise - Professional business solutions Services',
   description: 'Trusted business solutions services with expertise you can rely on.',
 };
 
