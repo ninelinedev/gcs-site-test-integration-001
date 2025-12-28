@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="bg-gradient-to-br from-primary-700 to-primary-900 text-white py-20">
       <div className="container mx-auto px-4 text-center">
         <h1 className="text-5xl md:text-6xl font-bold mb-6">
-          Trusted business solutions Expertise
+          Trusted None services Expertise
         </h1>
         <p className="text-xl md:text-2xl mb-8 text-primary-100">
           Professional solutions backed by decades of experience
