@@ -8,8 +8,8 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Unlock Your Business's Potential with Our Expertise - Professional None services Services',
-  description: 'Trusted None services services with expertise you can rely on.',
+  title: 'Tailored Business Solutions - Professional business solutions Services',
+  description: 'Trusted business solutions services with expertise you can rely on.',
 };
 
 export default function RootLayout({
