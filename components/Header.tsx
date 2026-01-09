@@ -7,7 +7,7 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           <Link href="/" className="text-2xl font-bold flex items-center">
             <span className="text-accent-500 mr-2">■</span>
-            Elevate Your Business with Our Tailored Solutions
+            Elevating Your Online Presence with Expertise
           </Link>
 
           <nav className="hidden md:flex space-x-8">
