@@ -2,7 +2,7 @@ export default function About() {
   return (
     <main className="py-20">
       <div className="container mx-auto px-4 max-w-4xl">
-        <h1 className="text-5xl font-bold text-primary-700 mb-8">About Tailored Business Solutions</h1>
+        <h1 className="text-5xl font-bold text-primary-700 mb-8">About Elevate Your Business with Our Expertise</h1>
 
         <div className="prose prose-lg">
           <p className="text-xl text-gray-700 mb-6">
