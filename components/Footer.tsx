@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4 text-accent-500">Tailored Business Solutions</h3>
+            <h3 className="text-xl font-bold mb-4 text-accent-500">Elevate Your Business with Our Expertise</h3>
             <p className="text-gray-300">
               Professional business solutions services you can trust.
             </p>
@@ -29,7 +29,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-primary-700 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Tailored Business Solutions. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Elevate Your Business with Our Expertise. All rights reserved.</p>
         </div>
       </div>
     </footer>
