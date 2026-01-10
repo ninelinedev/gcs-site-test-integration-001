@@ -2,17 +2,17 @@ export default function About() {
   return (
     <main className="py-20">
       <div className="container mx-auto px-4 max-w-4xl">
-        <h1 className="text-5xl font-bold text-primary-700 mb-8">About Elevating Your Online Presence with Expertise</h1>
+        <h1 className="text-5xl font-bold text-primary-700 mb-8">About Business test-integration-001</h1>
 
         <div className="prose prose-lg">
           <p className="text-xl text-gray-700 mb-6">
-            With over two decades of experience in website copywriting, we've built our reputation on
+            With over two decades of experience in business-test-integration-001, we've built our reputation on
             delivering exceptional results and maintaining the highest standards of professional excellence.
           </p>
 
           <h2 className="text-3xl font-bold text-primary-600 mt-12 mb-4">Our Mission</h2>
           <p className="text-gray-700">
-            To provide our clients with trusted, reliable website copywriting services that exceed expectations
+            To provide our clients with trusted, reliable business-test-integration-001 services that exceed expectations
             and deliver measurable value to their businesses and personal goals.
           </p>
 
@@ -39,7 +39,7 @@ export default function About() {
           <div className="bg-primary-50 p-8 rounded-lg mt-12">
             <h3 className="text-2xl font-bold text-primary-700 mb-4">Get in Touch</h3>
             <p className="text-gray-700">
-              Ready to work with a trusted website copywriting partner? Contact us today to discuss your needs.
+              Ready to work with a trusted business-test-integration-001 partner? Contact us today to discuss your needs.
             </p>
             <a href="/contact" className="inline-block mt-4 bg-primary-600 text-white px-6 py-3 rounded-lg hover:bg-primary-700 transition">
               Contact Us
