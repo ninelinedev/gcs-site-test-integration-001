@@ -8,8 +8,8 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Elevating Your Online Presence with Expertise - Professional website copywriting Services',
-  description: 'Trusted website copywriting services with expertise you can rely on.',
+  title: 'Business test-integration-001 - Professional business-test-integration-001 Services',
+  description: 'Trusted business-test-integration-001 services with expertise you can rely on.',
 };
 
 export default function RootLayout({
